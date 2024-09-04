@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Watch Live: Robert Telles, charged with murder in death of journalist Jeff German, expected to take the stand",
+      "description": "Robert Telles is expected to take the stand in his own defense Wednesday. The former elected official is accused of killing a Las Vegas journalist.",
+      "url": "https://www.cbsnews.com/news/watch-live-robert-telles-testifies-jeff-german-murder-trial/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/08/21/c574a9dc-1c83-4537-a26b-8cd0d30896a8/thumbnail/1200x630/ca0259c2efaf35829f186a3c87a5e4e5/ap24233079925022.jpg?v=fd6e213336f58b575c9e836e95546d26",
+      "publishedAt": "2024-08-21T17:56:32+00:00",
+      "content": "Robert Telles, the former Clark County public administrator accused of murder in the 2022 death of Las Vegas journalist Jeff German, is expected to take the stand in his own defense Wednesday. \r\nGerm… [+1878 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Marlene Lenthang",
+      "title": "Murder suspect who escaped custody in Mississippi is captured 2 months later after standoff in Chicago restaurant",
+      "description": "A man wanted for murder who was on the run for two months since escaping custody in Mississippi has been arrested miles away in Chicago after an over 12-hour long SWAT standoff, the U.S.",
+      "url": "https://www.nbcnews.com/news/us-news/murder-suspect-escaped-custody-mississippi-captured-2-months-later-sta-rcna167536",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240821-swat-seafood-junction-al-1108-b485e2.jpg",
+      "publishedAt": "2024-08-21T15:29:34Z",
+      "content": "A man wanted for murder who was on the run for two months since escaping custody in Mississippi has been arrested miles away in Chicago after an over 12-hour longSWAT standoff, the U.S. Marshals Serv… [+2799 chars]"
+    },
+    {
+      "source": { "id": "google-news-uk", "name": "Google News (UK)" },
+      "author": "The Guardian",
+      "title": "Murder inquiry after Leeds delivery driver dies ‘trying to stop van theft’ - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVzkyc0hCVC1pcEQyVFNDUXdHdzktUVJCa2JCWjFPUzg3YTkwV2oyaGxKWDRtOHE0eE9iMWNOSnVxbzBvQ3Y5d1JzNVd2RjQ3MkpkYUhNSXZmLXRBajFfczMxNlpvcHBDeU1NVFJJeFNwRDlhZU5VOUJxY0tsbVlGM1RmanI1bF92ZHhNN01xNVlINUZJeEF3WjZOZXFPaWFWaHdVelFxNmF6OC0zN3BwS2xlZFJFcGlVUVVPSF9OS3hfWDhkNXc?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-21T14:53:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Susan Baek",
+      "title": "Defense for Bryan Kohberger says 'mob mentality' justifies moving venue of Idaho murders trial",
+      "description": "Defense attorneys for Bryan Kohberger, the man accused of killing four University of Idaho students in 2022, argue that a severe \"mob mentality\" against him within the community is sufficient justification for moving the trial out of Latah County, new court d…",
+      "url": "https://www.nbcnews.com/news/crime-courts/defense-bryan-kohberger-says-mob-mentality-justifies-moving-venue-idah-rcna167524",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240228-Bryan-Kohberger-ch-1151-d579af.jpg",
+      "publishedAt": "2024-08-21T14:50:52Z",
+      "content": "Defense attorneys for Bryan Kohberger, the man accused of killing four University of Idaho students in 2022, argue that a severe \"mob mentality\" against him within the community is sufficient justifi… [+2697 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "David Brennan, Jason Volack",
+      "title": "Manhunt for escaped murder suspect culminates in Chicago SWAT restaurant standoff",
+      "description": "Joshua Zimmerman has been on the run since June.",
+      "url": "https://abcnews.go.com/US/manhunt-escaped-murder-suspect-culminates-chicago-swat-restaurant/story?id=112854349",
+      "urlToImage": "https://s.abcnews.com/images/US/police-lights-rf-gty-200410_hpMain_16x9_992.jpg?w=1600",
+      "publishedAt": "2024-08-21T07:56:49Z",
+      "content": "After nearly two and a half months of searching, law enforcement officials zeroed in on fugitive Joshua Zimmerman, who has been on the run since escaping from the DeSoto County Circuit Court Building… [+2061 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Idaho Statesman",
+      "title": "Bryan Kohberger’s defense doubles down on moving Moscow murder trial to Boise - Idaho Statesman",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qdWQzaXRlTDlfVWp2eUg2bzhIRkhfUjdEclJOUVZqYlI4TmdRejVjeVZtemhyOXNvWE1QNC11RzhTTnlSVWJhd2NTTEYzV1RXcngyekMxaUZ5RXI2dVFYWWltLTlBS3lRSC1hRGd5M3NwWTZnRU1Odg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T21:10:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Molly Hayes",
+      "title": "OPP officers provide testimony at inquest into 2015 triple murders",
+      "description": "Four OPP officers addressed difficulties they had while discovering three deaths in 2015 connected by intimate partner violence",
+      "url": "https://www.theglobeandmail.com/canada/article-opp-provide-testimony-at-inquest-into-2015-triple-murders/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/B_0AHIFyolFcOl24Dt2Q82GJ_f4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/BPRCBGA52VCDHGHL2GMDLH2QSA.JPG",
+      "publishedAt": "2022-06-16T01:18:17Z",
+      "content": "A real estate billboard of slain Anastasia Kuzyk along Highway 60 in Wilno, Ont., in 2015.Dave Chan/The Globe and Mail\r\nAs soon as she heard Anastasia Kuzyks address read out over her police radio on… [+4544 chars]"
+    }
+  ]
+}

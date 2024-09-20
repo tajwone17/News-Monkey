@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react'
 
 import NewsItem from './NewsItem'
 import Spinner from './Spinner';
-import PropTypes from 'prop-types'
+// import PropTypes from 'prop-types'
 import InfiniteScroll from "react-infinite-scroll-component";
 
 const News = (props)=>{
@@ -72,16 +72,16 @@ const News = (props)=>{
 }
 
 
-News.defaultProps = {
-    country: 'in',
-    pageSize: 8,
-    category: 'general',
-}
+// News.defaultProps = {
+//     country: 'in',
+//     pageSize: 8,
+//     category: 'general',
+// }
 
-News.propTypes = {
-    country: PropTypes.string,
-    pageSize: PropTypes.number,
-    category: PropTypes.string,
-}
+// News.propTypes = {
+//     country: PropTypes.string,
+//     pageSize: PropTypes.number,
+//     category: PropTypes.string,
+// }
 
 export default News

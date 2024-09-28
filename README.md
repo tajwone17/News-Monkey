@@ -90,3 +90,5 @@ For any questions or issues, please open an issue on the [GitHub repository](htt
 
 ---
 
+<img width="162" alt="Screenshot 2024-09-21 001853" src="https://github.com/user-attachments/assets/efcb9ef5-b237-4e7e-804d-1a7e5aaa3c95">
+<img width="946" alt="Screenshot 2024-09-21 001924" src="https://github.com/user-attachments/assets/9b33ce6f-6017-4fc3-abae-8737ce97c905">
